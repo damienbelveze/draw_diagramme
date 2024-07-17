@@ -1,0 +1,1 @@
+[accéder au diagramme](diagramme.html)
